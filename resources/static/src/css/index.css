@@ -258,3 +258,9 @@ h3, h4, h5, h6 {
     background-color: cadetblue;
     border: 2px solid white;
 }
+
+.error{
+    text-align: center;
+    color: black;
+
+}
