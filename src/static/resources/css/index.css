@@ -37,8 +37,7 @@
     float: right;
     padding: 4px;
     margin-top: 8px;
-    margin-right: 16px;
-    border-color: none;
+    margin-right: 5px;
     font-size: 17px;
 }
 .topnav .search-container button {
@@ -48,11 +47,14 @@
     margin-right: 10px;
     background: #ddd;
     font-size: 17px;
-    border: none;
+    border: green;
     cursor: pointer;
 }
 .topnav .search-container button:hover {
     background: #ccc;
+}
+.topnav>a:hover{
+    background-color: #ffc7c7;
 }
 
 .login{
@@ -79,6 +81,9 @@ body, html {
     height: 100%;
 }
 
+h1{
+    font-weight: bold;
+}
 
 .hero-image {
 
@@ -206,6 +211,14 @@ h3, h4, h5, h6 {
     background-color: lavender;
 
 }
+.boton{
+    background-color: cadetblue;
+    color: white;
+    border: 2px solid white;
+    width: 10%;
+    margin-bottom: 70px;
+    margin-top: 50px;
+}
 
 #sub-footer{
     text-shadow:none;
@@ -213,7 +226,7 @@ h3, h4, h5, h6 {
     padding: 0;
     padding-top: 30px;
     margin:20px 0 0 0;
-    background: #5900b3;
+    background: #2b2135;
 }
 
 #sub-footer p{
@@ -222,14 +235,25 @@ h3, h4, h5, h6 {
 }
 
 #sub-footer span{
-    color: white;
+    font-size: 15px;
 }
+#footerform{
+    text-shadow:none;
+    color: white;
+    padding: 0;
+    padding-top: 30px;
+    margin:20px 0 0 0;
+    background: #2b2135;
+    bottom: 0;
+    position: absolute;
+    left: 0;
+    right: 0;
+}
+
 
 .copyright {
     text-align:left;
     font-size:20px;
-    margin-top: 20px;
-    margin-inside: 200px;
     margin-right: 40px;
 }
 
@@ -245,6 +269,7 @@ h3, h4, h5, h6 {
 
 #discover3{
     display: inline-block;
+    text-align: justify;
 }
 
 #form{
@@ -263,5 +288,11 @@ h3, h4, h5, h6 {
     text-align: center;
     color: black;
     margin-top: 50px;
+}
 
+li{
+    display: inline-block !important;
+}
+.waves-effect{
+    color: white;
 }

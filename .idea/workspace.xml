@@ -2,7 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f7415a3-eeea-4f31-97de-3ce685890f94" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/static/resources/list.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/blank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/detail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/FOTOS-DE-PAISAJES-AL-ATARDECER-DE-KARIN-BRUIN_MOTT.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/LT-Homepage-Banner-1920x680-Taiwan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/PV01jpg_5318b9af23817.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/calo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/celler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/choco.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/coves.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/cropped-header-2013-tol.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/deia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/dünya-turu-resim.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/filipinas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/foradada.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/guatemala.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/halsttatt-austria.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/images.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/img_paisaje.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/joan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/landscape2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/london.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/paris.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/people.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/playaheader.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/son marroig.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/tahiti-vacations-honeymoons.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/torrat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/travel-agency-responsive-landing-page-template_53870-big.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/travel-guide-psd-template_55908-original.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/travel-landing-page-free-psd-p2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/twitter-header-1500x500-nature (27).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/img/valldemossa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/listP.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/static/src/listR.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,51 +95,82 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1811406544">
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="256" />
+          <entry key="html" value="187" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="256" />
+          <entry key="HTML" value="187" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="3" />
+          <entry key="html" value="18" />
+          <entry key="jpeg" value="1" />
+          <entry key="jpg" value="35" />
+          <entry key="png" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="18" />
+          <entry key="Image" value="39" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/static/src/index.html">
+        <entry file="file://$PROJECT_DIR$/src/static/resources/list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="64" />
-              <folding>
-                <element signature="n#style#0;n#h1#0;n#div#2;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="299">
+              <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/static/src/404.html">
+        <entry file="file://$PROJECT_DIR$/src/static/resources/blank.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+            <state relative-caret-position="621">
+              <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/resources/static/src/css/index.css">
+        <entry file="file://$PROJECT_DIR$/src/static/resources/css/index.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="264" column="21" selection-start-line="264" selection-start-column="21" selection-end-line="264" selection-end-column="21" />
+            <state relative-caret-position="329">
+              <caret line="217" column="15" selection-start-line="217" selection-start-column="15" selection-end-line="217" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/static/src/form.html">
+        <entry file="file://$PROJECT_DIR$/src/static/resources/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="42" column="16" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+            <state relative-caret-position="290">
+              <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/static/src/detail.html">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/src/static/resources/form.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -106,14 +178,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>hover</find>
+      <find>span</find>
+      <find>lands</find>
+      <find>discover3</find>
+      <find>h1</find>
+      <find>16p</find>
+      <find>card-co</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -125,13 +203,18 @@
         <option value="$PROJECT_DIR$/resources/static/src/carlos.html" />
         <option value="$PROJECT_DIR$/resources/static/src/list.html" />
         <option value="$PROJECT_DIR$/resources/static/src/css/listP.css" />
-        <option value="$PROJECT_DIR$/resources/static/src/listR.html" />
-        <option value="$PROJECT_DIR$/resources/static/src/listP.html" />
-        <option value="$PROJECT_DIR$/resources/static/src/index.html" />
         <option value="$PROJECT_DIR$/resources/static/src/form.html" />
         <option value="$PROJECT_DIR$/resources/static/src/detail.html" />
         <option value="$PROJECT_DIR$/resources/static/src/404.html" />
+        <option value="$PROJECT_DIR$/resources/static/src/index.html" />
         <option value="$PROJECT_DIR$/resources/static/src/css/index.css" />
+        <option value="$PROJECT_DIR$/resources/static/src/listP.html" />
+        <option value="$PROJECT_DIR$/resources/static/src/listR.html" />
+        <option value="$PROJECT_DIR$/src/static/resources/list.html" />
+        <option value="$PROJECT_DIR$/src/static/resources/blank.html" />
+        <option value="$PROJECT_DIR$/src/static/resources/form.html" />
+        <option value="$PROJECT_DIR$/src/static/resources/index.html" />
+        <option value="$PROJECT_DIR$/src/static/resources/css/index.css" />
       </list>
     </option>
   </component>
@@ -153,44 +236,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="html-youthink" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-youthink" type="462c0819:PsiDirectoryNode" />
+              <item name="youthink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youthink" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="html-youthink" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-youthink" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html-youthink" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-youthink" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html-youthink" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-youthink" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="youthink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youthink" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="html-youthink" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html-youthink" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="youthink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youthink" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youthink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youthink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="youthink" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youthink" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -245,13 +328,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30047000" />
+    <option name="totallyTimeSpent" value="37417000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-2" width="1920" height="1018" extended-state="6" />
-    <editor active="true" />
+    <frame x="1920" y="257" width="1920" height="1048" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16168623" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17448603" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -266,7 +348,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32094595" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32967034" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -279,6 +361,35 @@
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32999474" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -287,26 +398,9 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/resources/static/src/img/home.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/static/src/carlos.html" />
     <entry file="file://$PROJECT_DIR$/resources/static/src/css/listP.css" />
     <entry file="file://$PROJECT_DIR$/resources/static/src/list.html" />
-    <entry file="file://$PROJECT_DIR$/resources/static/src/listR.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/static/src/listP.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="43" column="14" lean-forward="true" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/static/src/blank.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -317,30 +411,190 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/static/src/detail.html">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/travel-landing-page-free-psd-p2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="268" column="17" selection-start-line="268" selection-start-column="17" selection-end-line="268" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/listP.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="57" column="40" selection-start-line="57" selection-start-column="40" selection-end-line="57" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/choco.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/cropped-header-2013-tol.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/deia.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/dünya-turu-resim.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/filipinas.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/FOTOS-DE-PAISAJES-AL-ATARDECER-DE-KARIN-BRUIN_MOTT.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/guatemala.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/home.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/img_paisaje.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/london.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/LT-Homepage-Banner-1920x680-Taiwan.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/halsttatt-austria.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/playaheader.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/PV01jpg_5318b9af23817.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/son marroig.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/tahiti-vacations-honeymoons.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/torrat.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/paris.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/people.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/images.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/foradada.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/coves.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/celler.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/joan.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/landscape.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/landscape2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/valldemossa.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/img/calo.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/static/src/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/static/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="64" />
+        <state relative-caret-position="199">
+          <caret line="170" column="12" selection-start-line="170" selection-start-column="12" selection-end-line="170" selection-end-column="12" />
           <folding>
             <element signature="n#style#0;n#h1#0;n#div#2;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/static/src/404.html">
+    <entry file="file://$PROJECT_DIR$/resources/static/src/listR.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        <state relative-caret-position="496">
+          <caret line="71" column="9" selection-start-line="71" selection-start-column="9" selection-end-line="71" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/static/src/css/index.css">
+    <entry file="file://$PROJECT_DIR$/resources/static/src/detail.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/resources/detail.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/resources/404.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="264" column="21" selection-start-line="264" selection-start-column="21" selection-end-line="264" selection-end-column="21" />
+        <state relative-caret-position="299">
+          <caret line="13" column="7" lean-forward="true" selection-end-line="13" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/resources/detailP.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="34" lean-forward="true" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/resources/detailR.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/resources/blank.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="27" column="14" selection-start-line="27" selection-start-column="14" selection-end-line="27" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/resources/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/resources/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="49" column="23" selection-start-line="49" selection-start-column="23" selection-end-line="49" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/resources/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="41" column="26" selection-start-line="41" selection-start-column="26" selection-end-line="41" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/static/resources/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="217" column="15" selection-start-line="217" selection-start-column="15" selection-end-line="217" selection-end-column="15" />
         </state>
       </provider>
     </entry>
